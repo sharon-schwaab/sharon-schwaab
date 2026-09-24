@@ -2,6 +2,8 @@
   <img src="images/github-header-banner.png" alt="Sharon Schwaab GitHub Header">
 </p>
 
+[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,cs,py,mysql,vscode,unity,blender)](https://skillicons.dev)
+
 # Hi, I'm Sharon 👋
 
 ### Mechatronics Student · Data Analyst · Developer · Future Robotics & AI Engineer
@@ -156,7 +158,7 @@ Today I am applying that experience to increasingly technical systems.
 
 ## 📫 Connect with Me
 
-[![Github](https://img.shields.io/badge/Git-Sharon%20Schwaab-0A66C2?style=flat&logo=git&logoColor=black)](https://github.com/sharon-schwaab)
+[![Github](https://img.shields.io/badge/Git-Sharon%20Schwaab-0A66C2?style=flat&logo=github&logoColor=black)](https://github.com/sharon-schwaab)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sharon%20Schwaab-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharon-schwaab/)
 [![Email](https://img.shields.io/badge/Email-sharon.schwaab%40outlook.de-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:sharon.schwaab@outlook.de)
 
