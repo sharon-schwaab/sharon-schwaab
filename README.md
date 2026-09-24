@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/github-header.png" alt="Sharon Schwaab GitHub Header">
+</p>
+
 # Hi, I'm Sharon 👋
 
 ### Mechatronics Student · Data Analyst · Developer · Future Robotics & AI Engineer
